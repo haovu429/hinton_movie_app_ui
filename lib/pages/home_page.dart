@@ -36,7 +36,8 @@ class HomePage extends StatelessWidget {
                             width: 263.02,
                             decoration: BoxDecoration(
                               image: DecorationImage(
-                                  image: AssetImage("assets/movie_poster.jpg"),
+                                  image: AssetImage(
+                                      "assets/images/movie_poster.jpg"),
                                   fit: BoxFit.cover),
                             ),
                           ),

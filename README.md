@@ -1,16 +1,9 @@
 # movie_app
+This project is an App interface to display movie information, it is coded with Flutter.
 
-A new Flutter project.
+It's include 2 page, HomePage and MovieDetailPage as captures below
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![page1](./screen_shots/page1.png)
+![page2_1](./screen_shots/page2_1.png)
+![page2_2](./screen_shots/page2_2.png)
+![page2_3](./screen_shots/page2_3.png)

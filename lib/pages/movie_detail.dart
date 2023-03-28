@@ -48,7 +48,7 @@ class _MovieDetailState extends State<MovieDetail> {
                         width: 230,
                         decoration: BoxDecoration(
                           image: DecorationImage(
-                              image: AssetImage("assets/movie_poster.jpg"),
+                              image: AssetImage("assets/images/movie_poster.jpg"),
                               fit: BoxFit.cover),
                         ),
                       ),
